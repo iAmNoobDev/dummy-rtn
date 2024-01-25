@@ -1,0 +1,3 @@
+[submodule "dummy-android"]
+	path = dummy-android
+	url = https://github.com/iAmNoobDev/dummy-android
